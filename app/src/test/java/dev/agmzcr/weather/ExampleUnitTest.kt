@@ -1,4 +1,4 @@
-package dev.agmzcr.weathernow
+package dev.agmzcr.weather
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package dev.agmzcr.weathernow
+package dev.agmzcr.weather
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
